@@ -1,0 +1,1 @@
+oc new-app --template=eap73-basic-s2i -p IMAGE_STREAM_NAMESPACE=custom-cli -p SOURCE_REPOSITORY_URL=https://github.com/jboss-developer/jboss-eap-quickstarts -p SOURCE_REPOSITORY_REF=7.3.x-openshift -p CONTEXT_DIR=helloworld
