@@ -1,0 +1,1 @@
+curl --insecure https://eap-app-custom-cli.apps-crc.testing/HelloWorld
